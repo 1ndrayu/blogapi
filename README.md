@@ -2,6 +2,9 @@
 
 BlogAPI is a RESTful service for managing personal blog posts. It provides endpoints for creating, reading, updating, deleting, and searching blog posts. This project is designed to demonstrate best practices in REST API design, HTTP methods, status codes, and basic persistence.
 
+## Project at:
+https://roadmap.sh/projects/blogging-platform-api
+
 ## Features
 
 - Create a blog post
@@ -86,4 +89,4 @@ GET /posts?term=tech
 
 ## Repository
 
-https://github.com/your-username/blogapi
+https://github.com/1ndrayu/blogapi
